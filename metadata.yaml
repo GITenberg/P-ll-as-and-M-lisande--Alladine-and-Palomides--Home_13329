@@ -1,0 +1,36 @@
+_repo: P-ll-as-and-M-lisande--Alladine-and-Palomides--Home_13329
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hovey, Richard
+    birthdate: 1864
+    deathdate: 1900
+    gutenberg_agent_id: '5003'
+    url: http://www.gutenberg.org/2009/agents/5003
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Hovey
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: Pélléas and Mélisande -- Alladine and Palomides -- Home
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama'
+- !lcc 'PQ'
+title: Pélléas and Mélisande; Alladine and Palomides; Home
+url: http://www.gutenberg.org/ebooks/13329
