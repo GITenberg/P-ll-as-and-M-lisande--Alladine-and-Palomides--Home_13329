@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: Pélléas and Mélisande -- Alladine and Palomides -- Home
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13329#P-ll-as-and-M-lisande--Alladine-and-Palomides--Home
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
